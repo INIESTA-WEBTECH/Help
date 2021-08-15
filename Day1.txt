@@ -5,3 +5,5 @@ Kirtika - Horoscope Website, Correct to folder structure and change the assets l
 Suresh - Create Django app, admin, 3 routes; signin, signup and home, arrange the folder structure.
 
 Ishika - Fix the Team section and the logo of the website
+
+Tithi - Work with kartik
